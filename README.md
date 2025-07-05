@@ -1,6 +1,7 @@
 # 🌏 Nusantara AI Project v1.0
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/lnpro684/Nusantara-AI-Project/main)
 
 **Nusantara AI Project** is an offline-ready, privacy-first artificial intelligence initiative powered by the **Google Gemma 3** large language model. This project is built for researchers, developers, and hobbyists who want to explore large language models (LLMs) on their local machine — without any cloud dependencies.
 
