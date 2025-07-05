@@ -71,6 +71,6 @@ Enjoy trying our AI and yu can join us at [Luqman Nurhakim / Nusantara AI Projec
 
 ---
 
-## 📝 Lisensi
+## 📝 Licence
 
 This project is distributed under the MIT License. See the LICENSE file for more information.
