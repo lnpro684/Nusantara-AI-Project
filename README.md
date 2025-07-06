@@ -58,7 +58,7 @@ You don't need a high-end workstation to run this project. Here's what we've tes
 
 Download and install Nusantara AI from [release page](https://github.com/Nusantara-AI-Project/releases). It supports Windows only.
 
-### 📦 Step 2: Open appinstall.exe
+### 📦 Step 2: Open appinstall.hta
 
 Wait until it finished. At this point, the installer is downloading and installing Ollama and our app from official page.
 
